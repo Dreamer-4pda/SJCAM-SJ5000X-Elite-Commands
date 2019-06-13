@@ -1,6 +1,8 @@
 ## I sold my SJCAM SJ5000X and will be unable to continue working on this project. Feel free to fork and work on it 😄
 
-# SJCAM5000X Elite COMMANDS
+# COMMANDS for
+# SJCAM5000X Elite 
+# SJCAM M10 
 
 Base URL: http://192.168.1.254/
 
