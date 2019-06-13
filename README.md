@@ -209,7 +209,6 @@ http://192.168.1.254/?custom=1&cmd=2015&par=1
 - http://192.168.1.254/?custom=1&cmd=2010
 - http://192.168.1.254/?custom=1&cmd=2013
 - http://192.168.1.254/?custom=1&cmd=2014
-- http://192.168.1.254/?custom=1&cmd=2015
 - http://192.168.1.254/?custom=1&cmd=3030
 - http://192.168.1.254/?custom=1&cmd=3008
 - http://192.168.1.254/?custom=1&cmd=3019
