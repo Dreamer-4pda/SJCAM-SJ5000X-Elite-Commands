@@ -143,10 +143,10 @@ http://192.168.1.254/?custom=1&cmd=3004&str=password_here
 http://192.168.1.254/?custom=1&cmd=3003&str=SSID_here
 
 ## Set Date:
-http://192.168.1.254/?custom=1&cmd=3005&str/YYYY-MM-DD
+http://192.168.1.254/?custom=1&cmd=3005&str=YYYY-MM-DD
 
 ## Set Time:
-http://192.168.1.254/?custom=1&cmd=3006&str/HH:MM:SS
+http://192.168.1.254/?custom=1&cmd=3006&str=HH:MM:SS
 
 ## Reset Settings to Default:
 http://192.168.1.254/?custom=1&cmd=3011
@@ -197,6 +197,9 @@ http://192.168.1.254/?custom=1&cmd=3012
 
 ## Battery Value 0(Full)/1(75%)/2(50%)/3(25%)/4(Low Battery)/5(Charger)
 http://192.168.1.254/?custom=1&cmd=3016
+
+## Save settings?
+http://192.168.1.254/?custom=1&cmd=2015&par=1
 
 ## Unknown Commands
 - http://192.168.1.254/?custom=1&cmd=1006
